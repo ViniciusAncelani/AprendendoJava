@@ -1,4 +1,5 @@
 🌀 Praticando Laços de Repetição em Java
+
 Este repositório foi criado com o objetivo de praticar e fixar o uso dos principais laços de repetição (loops) em Java. Os exercícios aqui presentes foram desenvolvidos como parte do meu processo de aprendizado da linguagem, com foco em melhorar o raciocínio lógico e a fluência na escrita de código.
 
 🚀 Laços trabalhados:
